@@ -1,5 +1,5 @@
 'use client';
-import {useMemo, useState} from "react";
+import {useEffect, useMemo, useState} from "react";
 import {useUsers} from "@/hooks/useUsers";
 import UserCard from "@/app/(components)/UserCard";
 
