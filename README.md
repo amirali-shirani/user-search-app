@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+💼 User Search App
 
-## Getting Started
+A modern, responsive user search app built with **Next.js, Tailwind CSS, React Query**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://user-search-app-three.vercel.app/)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<p align="center">
+  <a href="https://user-search-app-three.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d1714541-fb4f-42cb-ae09-7e938e3000d5" alt="User Search App Screenshot" width="800" />
+  </a>
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+- ✅ Fully responsive – works beautifully on all devices  
+- 🔍 Search users by first name, last name, or email  
+- 🇺🇸 Filter users by country with a dropdown menu  
+- 🎨 Clean and modern UI with light and dark mode support  
+- ⚡ Built using **Tailwind CSS** and **React Query** for efficient data fetching  
+- 📱 Mobile-friendly layout and interactions  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📂 GitHub Repo
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[https://github.com/amirali-shirani/user-search-app](https://github.com/amirali-shirani/user-search-app)
