@@ -1,4 +1,4 @@
-💼 User Search App
+# 💼 User Search App
 
 A modern, responsive user search app built with **Next.js, Tailwind CSS, React Query**.
 
@@ -6,11 +6,15 @@ A modern, responsive user search app built with **Next.js, Tailwind CSS, React Q
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://user-search-app-three.vercel.app/)
+<p align="center">
+  <a href="https://user-search-app-three.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://user-search-app-three.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/d1714541-fb4f-42cb-ae09-7e938e3000d5" alt="User Search App Screenshot" width="800" />
+    <img src="https://raw.githubusercontent.com/amirali-shirani/user-search-app/master/public/images/users-app.png" alt="User Search App Screenshot" width="800" />
   </a>
 </p>
 
