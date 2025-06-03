@@ -1,5 +1,4 @@
 'use client';
-import Image from "next/image";
 import {Mail, MapPin} from "lucide-react";
 
 export default function UserCard({user}) {
@@ -12,11 +11,9 @@ export default function UserCard({user}) {
                 group-hover:opacity-20 transition-opacity
                 duration-500 pointer-events-none z-0"/>
             <div className="relative z-10 shrink-0 transition-transform duration-300 group-hover:scale-110">
-                <Image
+                <img
                     src={user.picture.medium}
-                    width={64}
-                    height={64}
-                    alt={`${user.name.first} ${user.name.last}`}
+                        alt={`${user.name.first} ${user.name.last}`}
                     className="rounded-full w-16 h-16 object-cover border-2
                      border-purple-700 shadow-sm"
                 />
